@@ -1,0 +1,3 @@
+usuario|Marquin|123
+gerente|Vinicius|123
+dono|Daniel|123
